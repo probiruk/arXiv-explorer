@@ -4,7 +4,7 @@
 
 A modern, user-friendly interface for exploring scientific research papers from arXiv. Built with React, TypeScript, and Tailwind CSS, featuring semantic search capabilities and real-time relevance scoring.
 
-![arXiv Explorer Screenshot](imgur.com/6IzGkj9)
+![arXiv Explorer Screenshot](https://i.imgur.com/6IzGkj9.png)
 
 ## Features
 
