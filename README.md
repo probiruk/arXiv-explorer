@@ -4,7 +4,7 @@
 
 A modern, user-friendly interface for exploring scientific research papers from arXiv. Built with React, TypeScript, and Tailwind CSS, featuring semantic search capabilities and real-time relevance scoring.
 
-![arXiv Explorer Screenshot](https://i.imgur.com/6IzGkj9)
+<blockquote class="imgur-embed-pub" lang="en" data-id="6IzGkj9" data-context="false" ><a href="//imgur.com/6IzGkj9"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Features
 
@@ -117,7 +117,7 @@ If you find this project helpful, please consider:
 
 ## Contact
 
-Biruk E. - [@imbiruk](https://twitter.com/imbiruk)
+Biruk Erjamo - [@imbiruk](https://twitter.com/imbiruk)
 Email - birukerjamo@gmail.com
 
 Project Link: [https://arxivexplorer.com/](https://arxivexplorer.com/)
