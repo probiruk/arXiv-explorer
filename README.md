@@ -117,7 +117,6 @@ If you find this project helpful, please consider:
 
 ## Contact
 
-Biruk Erjamo - [@imbiruk](https://twitter.com/imbiruk)
 Email - birukerjamo@gmail.com
 
 Project Link: [https://arxivexplorer.com/](https://arxivexplorer.com/)
